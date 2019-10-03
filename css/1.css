@@ -1,0 +1,30 @@
+.main-footer{
+    background: #222;
+    color: white;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: .8em;
+}
+
+.column__title{
+    font-size: 175%;
+}
+
+.main-footer>*{
+    font-size: 0.9em;
+}
+.copy{
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.cards{
+    text-align: justify;
+    font-size: 0.8em;
+}
+.card2{
+    height: 500;
+    width: 500;
+}

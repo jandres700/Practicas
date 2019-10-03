@@ -1,0 +1,29 @@
+form{
+    position: relative;
+    width: 17rem;
+    font-family: Arial, Verdana, sans-serif;
+    color: black;
+    text-align: justify;
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 17vh auto auto;
+}
+
+.aceptar{
+    text-align: center;   
+}
+
+.imagen {
+    vertical-align: middle;
+    width: 100%;
+}
+
+img{
+    margin: 60px auto -50px;
+    height: 10%;
+    display: block
+}
+
+
