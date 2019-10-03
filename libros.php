@@ -49,7 +49,7 @@
           <img src="img/1.jpg" class="d-block w-100" alt="Bienvenido">
           <div class="carousel-caption d-none d-md-block">
             <h5>Bienvenido</h5>
-            <p>Bienvenido Plus Technologies.</p>
+            <p>Bienvenido a Plus Technologies.</p>
           </div>
         </div>
         <div class="carousel-item">
