@@ -49,7 +49,7 @@
         <div class="carousel-item active">
           <img src="img/1.jpg" class="d-block w-100" alt="Bienvenido">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Bienvenido</h5>
+            <h5>Welcome</h5>
             <p>Bienvenido Plus Technologies.</p>
           </div>
         </div>
